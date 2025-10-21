@@ -19,7 +19,7 @@
 <h2 align="center" style="font-family: 'Lucida Handwriting', cursive; color:#4b8b3b;">👩‍🔬 About Me</h2>
 
 <p align="center" style="font-family:'Segoe Script', cursive; font-size: 17px;">
-Hi there! I’m <b>[Your Name]</b>, a passionate <b>Food Science student</b> who loves exploring the chemistry and biology behind what we eat.<br>
+Hi there! I’m <b>[AsmaaNGL]</b>, a passionate <b>Food Science student</b> who loves exploring the chemistry and biology behind what we eat.<br>
 I’m deeply interested in <b>microbiology, nutrition, and human health</b>, and I enjoy connecting scientific knowledge with everyday life. 🌿
 </p>
 
