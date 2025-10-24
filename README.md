@@ -1,4 +1,4 @@
-## Free Palestine
+# Free Palestine
 
 <!-- 🌿 Beautiful Food Science Student README 🌿 -->
 
